@@ -1,0 +1,4 @@
+i am a fix file ehich will be used to fix the bug
+
+fixed anithyer bug
+one more bug detected and fixed.
